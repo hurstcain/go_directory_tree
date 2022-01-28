@@ -66,5 +66,11 @@ go run main.go testdata
 ## Запуск скрипта
 
 ```
-
+git clone https://github.com/hurstcain/go_directory_tree
+```
+```
+cd go_directory_tree
+```
+```
+go run main.go testdata
 ```
